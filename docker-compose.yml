@@ -1,0 +1,6 @@
+﻿services:
+  supplierappsoa:
+    image: supplierappsoa
+    build:
+      context: .
+      dockerfile: SupplierAppSoa/Dockerfile

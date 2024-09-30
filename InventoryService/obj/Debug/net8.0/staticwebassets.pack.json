@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/07da7d8c-956c-4115-8e94-45d9a0493016.jpg",
+      "PackagePath": "staticwebassets/images/07da7d8c-956c-4115-8e94-45d9a0493016.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/11de8c02-4a04-42f1-a7fd-24a81a2607f9.png",
+      "PackagePath": "staticwebassets/images/11de8c02-4a04-42f1-a7fd-24a81a2607f9.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/1320f769-7739-462c-8e05-7744025dedf8.jpg",
+      "PackagePath": "staticwebassets/images/1320f769-7739-462c-8e05-7744025dedf8.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/13d87962-ce5d-40f2-b432-903c630d80ed.png",
+      "PackagePath": "staticwebassets/images/13d87962-ce5d-40f2-b432-903c630d80ed.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/2543b50c-090d-471b-af77-ebf9d7175b1d.png",
+      "PackagePath": "staticwebassets/images/2543b50c-090d-471b-af77-ebf9d7175b1d.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/2f855cf6-0cc1-45e6-b87f-bd5504a69317.jpg",
+      "PackagePath": "staticwebassets/images/2f855cf6-0cc1-45e6-b87f-bd5504a69317.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/4852bc48-7022-4809-ab02-663c110cf539.jpg",
+      "PackagePath": "staticwebassets/images/4852bc48-7022-4809-ab02-663c110cf539.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/544f9c18-d467-4c85-a6a1-3bb27fe785c6.png",
+      "PackagePath": "staticwebassets/images/544f9c18-d467-4c85-a6a1-3bb27fe785c6.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/5ac73dc0-e04a-424e-8f72-7369d5ead96a.jpeg",
+      "PackagePath": "staticwebassets/images/5ac73dc0-e04a-424e-8f72-7369d5ead96a.jpeg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/5d5b0b98-3b4f-4268-9435-45fb6298a71a.png",
+      "PackagePath": "staticwebassets/images/5d5b0b98-3b4f-4268-9435-45fb6298a71a.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/6035c48e-406a-44fe-8fa4-2084b4f42b88.jpg",
+      "PackagePath": "staticwebassets/images/6035c48e-406a-44fe-8fa4-2084b4f42b88.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/6a3f291b-f1ba-4861-b9a6-3dbc71393dc5.png",
+      "PackagePath": "staticwebassets/images/6a3f291b-f1ba-4861-b9a6-3dbc71393dc5.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/6cd0a5d0-08b5-4c44-bad9-312bf19b163a.jpg",
+      "PackagePath": "staticwebassets/images/6cd0a5d0-08b5-4c44-bad9-312bf19b163a.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/849d21a3-eba3-4d95-9cee-2d146317826b.png",
+      "PackagePath": "staticwebassets/images/849d21a3-eba3-4d95-9cee-2d146317826b.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/8678a3a4-d961-49c2-a1e1-3e7d794277c5.png",
+      "PackagePath": "staticwebassets/images/8678a3a4-d961-49c2-a1e1-3e7d794277c5.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/8718c3f4-3616-4cd4-ae25-8df35f980383.png",
+      "PackagePath": "staticwebassets/images/8718c3f4-3616-4cd4-ae25-8df35f980383.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/9d0af13d-6d04-4c62-9e7d-54dbe5483166.png",
+      "PackagePath": "staticwebassets/images/9d0af13d-6d04-4c62-9e7d-54dbe5483166.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/9f62920e-c5eb-4c56-bee8-1acfae554bec.jpg",
+      "PackagePath": "staticwebassets/images/9f62920e-c5eb-4c56-bee8-1acfae554bec.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/a1386383-acfc-440a-bc90-e03e6ba7d3c8.jpg",
+      "PackagePath": "staticwebassets/images/a1386383-acfc-440a-bc90-e03e6ba7d3c8.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/a68df11e-825c-4d48-acc8-1c208aec9284.jpg",
+      "PackagePath": "staticwebassets/images/a68df11e-825c-4d48-acc8-1c208aec9284.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/b0fcc4f7-0a29-44db-a367-e3b835c27c0d.png",
+      "PackagePath": "staticwebassets/images/b0fcc4f7-0a29-44db-a367-e3b835c27c0d.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/b3aec2e7-3352-4688-a470-31b133bb200a.jpg",
+      "PackagePath": "staticwebassets/images/b3aec2e7-3352-4688-a470-31b133bb200a.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/b4ddc1db-f8dd-4a01-9695-d51a61153aca.png",
+      "PackagePath": "staticwebassets/images/b4ddc1db-f8dd-4a01-9695-d51a61153aca.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/bb55ec03-93f5-4a18-aea5-30a2febb22d0.png",
+      "PackagePath": "staticwebassets/images/bb55ec03-93f5-4a18-aea5-30a2febb22d0.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/c6e26289-7f1d-4c0b-9334-ad63201a78e1.jpg",
+      "PackagePath": "staticwebassets/images/c6e26289-7f1d-4c0b-9334-ad63201a78e1.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/d3611248-a5d7-4828-93e4-592f279defbc.jpg",
+      "PackagePath": "staticwebassets/images/d3611248-a5d7-4828-93e4-592f279defbc.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/d5838821-8adf-4a63-a5e5-805f6d7c1bb4.png",
+      "PackagePath": "staticwebassets/images/d5838821-8adf-4a63-a5e5-805f6d7c1bb4.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/dcec22a3-a86c-41f1-be93-bf134f56fb95.jpg",
+      "PackagePath": "staticwebassets/images/dcec22a3-a86c-41f1-be93-bf134f56fb95.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/e4d8713e-5459-4c48-b0f7-9ab025748f17.jpg",
+      "PackagePath": "staticwebassets/images/e4d8713e-5459-4c48-b0f7-9ab025748f17.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/edd7fb52-acb0-4a43-8549-6998f9fb847b.png",
+      "PackagePath": "staticwebassets/images/edd7fb52-acb0-4a43-8549-6998f9fb847b.png"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/f0ce9217-f907-4250-9a37-f86b9db6af44.jpg",
+      "PackagePath": "staticwebassets/images/f0ce9217-f907-4250-9a37-f86b9db6af44.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/fa7d12dd-f6e7-4af2-9aa8-027336b62933.jpg",
+      "PackagePath": "staticwebassets/images/fa7d12dd-f6e7-4af2-9aa8-027336b62933.jpg"
+    },
+    {
+      "Id": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/wwwroot/images/ff3de381-7b31-4fb3-ad80-923902251262.png",
+      "PackagePath": "staticwebassets/images/ff3de381-7b31-4fb3-ad80-923902251262.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.InventoryService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.InventoryService.props",
+      "PackagePath": "build\\InventoryService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.InventoryService.props",
+      "PackagePath": "buildMultiTargeting\\InventoryService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.InventoryService.props",
+      "PackagePath": "buildTransitive\\InventoryService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
