@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bf2eN6ZBI+Y=",
+  "dgSpecHash": "bYU2Illc2lg=",
   "success": true,
-  "projectFilePath": "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj",
+  "projectFilePath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj",
   "expectedPackageFiles": [
     "/home/saai/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "/home/saai/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -14,7 +14,9 @@
     "/home/saai/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "/home/saai/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
     "/home/saai/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
-    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/saai/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

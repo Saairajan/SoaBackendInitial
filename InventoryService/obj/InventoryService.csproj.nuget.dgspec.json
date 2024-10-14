@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/InventoryService.csproj": {}
+    "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/InventoryService/InventoryService.csproj": {}
   },
   "projects": {
-    "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj": {
+    "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj",
+        "projectUniqueName": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj",
         "projectName": "Common",
-        "projectPath": "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj",
+        "projectPath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj",
         "packagesPath": "/home/saai/.nuget/packages/",
-        "outputPath": "/home/saai/RiderProjects/SupplierAppSoa/Common/obj/",
+        "outputPath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/saai/.nuget/NuGet/NuGet.Config"
@@ -70,7 +70,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.8, 8.0.8]"
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.10, 8.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -81,18 +89,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/InventoryService.csproj": {
+    "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/InventoryService/InventoryService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/InventoryService.csproj",
+        "projectUniqueName": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/InventoryService/InventoryService.csproj",
         "projectName": "InventoryService",
-        "projectPath": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/InventoryService.csproj",
+        "projectPath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/InventoryService/InventoryService.csproj",
         "packagesPath": "/home/saai/.nuget/packages/",
-        "outputPath": "/home/saai/RiderProjects/SupplierAppSoa/InventoryService/obj/",
+        "outputPath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/InventoryService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/saai/.nuget/NuGet/NuGet.Config"
@@ -107,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj": {
-                "projectPath": "/home/saai/RiderProjects/SupplierAppSoa/Common/Common.csproj"
+              "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj": {
+                "projectPath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/Common/Common.csproj"
               }
             }
           }
@@ -185,7 +193,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.8, 8.0.8]"
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.10, 8.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.10, 8.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -196,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

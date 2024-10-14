@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFh+BNSK01Y=",
+  "dgSpecHash": "MqEm/CTPBXs=",
   "success": true,
-  "projectFilePath": "/home/saai/RiderProjects/SupplierAppSoa/OrderService/OrderService.csproj",
+  "projectFilePath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/OrderService/OrderService.csproj",
   "expectedPackageFiles": [
     "/home/saai/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/saai/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
@@ -54,7 +54,9 @@
     "/home/saai/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/saai/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512",
     "/home/saai/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
-    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/saai/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

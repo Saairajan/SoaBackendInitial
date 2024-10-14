@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etx4/fsGmKQ=",
+  "dgSpecHash": "PFjuzBHfa8Y=",
   "success": true,
-  "projectFilePath": "/home/saai/RiderProjects/SupplierAppSoa/SupplierAppSoa/SupplierAppSoa.csproj",
+  "projectFilePath": "/home/saai/Documents/Work/OurOWn/github/SoaBackendInitial/SupplierAppSoa/SupplierAppSoa.csproj",
   "expectedPackageFiles": [
     "/home/saai/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "/home/saai/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -11,7 +11,9 @@
     "/home/saai/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/saai/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "/home/saai/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
-    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/saai/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/saai/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }
